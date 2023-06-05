@@ -1,0 +1,225 @@
+.div1{
+    height: 300px;
+    width: 900px;
+ margin-left: 350px;
+margin-top: 20px;
+background: #40BFFF;
+}
+.div1 img{
+margin-left: 490px;
+margin-top: -20px;
+}
+.div1 h1{
+    position: absolute;
+left: 37.26%;
+right: 42.34%;
+top: 32.33%;
+bottom: 82.91%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 45px;
+
+color: white;
+}
+.div1 p{
+    position: absolute;
+left: 37.26%;
+right: 42.34%;
+top: 47.86%;
+bottom: 82.91%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+
+color: #FFFFFF;
+}
+.div1 span{
+    position: absolute;
+left: 37.29%;
+right: 50.8%;
+top: 59.95%;
+bottom: 81.41%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 18px;
+
+color: #FFFFFF;
+}
+.rec{
+    position: absolute;
+    left: 1.29%;
+    right: 63.2%;
+    top: 66.69%;
+    bottom: 81.22%;
+    
+    background: #FFFFFF;
+}
+.div2{
+    position: absolute;
+left: 26.94%;
+right: 8.95%;
+top: 74.53%;
+bottom: 76.45%;
+height: 50px;
+width: 900px;
+margin-left: -10px;
+background: #F6F7F8;
+
+}
+.div2 select{
+    border: none;
+    outline: none;
+    background: #F6F7F8;
+}
+.div2 ul{
+    margin: 12px;
+    
+}
+
+ .box1{
+    position: absolute;
+left: 1.00%;
+right: 53.09%;
+top: 114.61%;
+bottom: 65.87%;
+width: 288px;
+height: 220px;
+ 
+background: #F6F7F8;
+border-radius: 5px;
+}
+.box2{
+    position: absolute;
+left: 34.50%;
+right: 53.09%;
+top: 114.61%;
+bottom: 65.87%;
+width: 288px;
+height: 220px;
+
+
+background: #F6F7F8;
+border-radius: 5px;
+}
+.box3{
+    position: absolute;
+left: 68.00%;
+right: 53.09%;
+top: 114.61%;
+bottom: 65.87%;
+width: 288px;
+height: 220px;
+
+
+background: #061b31;
+border-radius: 5px;
+}  
+.box4{
+    position: absolute;
+    left: 1.00%;
+    right: 53.09%;
+    top: 864.61%;
+    bottom: 65.87%;
+    width: 288px;
+    height: 220px;
+     
+    background: #dbdee0;
+    border-radius: 5px;   
+}
+.box5{
+    position: absolute;
+    left: 34.90%;
+    right: 53.09%;
+    top: 864.61%;
+    bottom: 65.87%;
+    width: 288px;
+    height: 220px;
+     
+    background: #dbdee0;
+    border-radius: 5px;   
+}
+.box6{
+    position: absolute;
+    left: 68.90%;
+    right: 53.09%;
+    top: 864.61%;
+    bottom: 65.87%;
+    width: 288px;
+    height: 220px;
+     
+    background: #dbdee0;
+    border-radius: 5px;   
+}
+.box7{
+    position: absolute;
+    left: 1.00%;
+    right: 53.09%;
+    top: 1594.61%;
+    bottom: 65.87%;
+    width: 288px;
+    height: 220px;
+     
+    background: #dbdee0;
+    border-radius: 5px;   
+}
+.box8{
+    position: absolute;
+    left: 34.00%;
+    right: 53.09%;
+    top: 1594.61%;
+    bottom: 65.87%;
+    width: 288px;
+    height: 220px;
+     
+    background: #dbdee0;
+    border-radius: 5px;   
+}
+.box9{
+    position: absolute;
+    left: 68.00%;
+    right: 53.09%;
+    top: 1594.61%;
+    bottom: 65.87%;
+    width: 288px;
+    height: 220px;
+     
+    background: #dbdee0;
+    border-radius: 5px;   
+}
+ .pagination  {
+    display: inline-block;
+    position: absolute;
+left: 45.54%;
+right: 8.29%;
+top: 260.61%;
+bottom: 29.2%;
+background: #FAFAFB;
+width: 430px;
+height: 20px;
+  }
+ 
+  
+  
+  
+  .pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  .pagination a.active {
+    background-color: #40BFFF;
+    color: white;
+  }
+  
+  .pagination a:hover:not(.active) {background-color: #40BFFF;}

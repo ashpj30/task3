@@ -1,0 +1,67 @@
+ .tb table{
+    position: absolute;
+left: 6.86%;
+right: 75.14%;
+top: 26.24%;
+bottom: 76.8%;
+width: 190px;
+height: 270px;
+background: #F6F7F8;
+}
+.sb{
+    position: absolute;
+left: 6.86%;
+right: 75.14%;
+top: 70.24%;
+width: 190px;
+line-height: 10px;
+height: 120px;
+background: #F6F7F8;}
+.sb1{
+    position: absolute;
+left: 6.86%;
+right: 75.14%;
+top: 90.24%;
+width: 190px;
+line-height: 10px;
+height: 90px;
+background: #F6F7F8;}
+.sb1 img{
+    padding: 3px;
+}
+.sb2{
+    position: absolute;
+left: 6.86%;
+right: 75.14%;
+top: 105.24%;
+width: 190px;
+line-height: 10px;
+height: 190px;
+background: #F6F7F8;}
+
+.sb2 table{
+    position: absolute;
+    left: 2.86%;
+    right: 75.14%;
+    top: 10.24%;
+    bottom: 76.8%;
+    width: 170px;
+    height: 190px;
+    background: #F6F7F8;
+    margin-bottom: 20px;
+   
+}
+.sb3{
+    position: absolute;
+left: 6.86%;
+right: 75.14%;
+top: 138.29%;
+bottom: 52.75%;
+width: 180px;
+height: 50px;
+background: #F6F7F8;
+}
+.sb3 p{
+    margin: 10px;
+   margin-left: 70px;
+}

@@ -1,0 +1,22 @@
+.pagination{
+    position: absolute;
+    top: 1690px;
+    left: 690px;
+    list-style-type: none;
+}
+.page-item{
+    float: left; 
+    padding: 0px 8px;
+     
+}
+
+.page-link{
+   background-color: #33A0FF;
+   color: white;
+}
+
+.page-item .disable .page-link{
+    color:#ecf0f1;
+    pointer-events:none;
+    border-color:transparent
+}
